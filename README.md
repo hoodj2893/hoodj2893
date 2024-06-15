@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jecara, an <a href="https://www.linkedin.com/in/jecarahood/">Front-End Javascript Developer</a>☺</h1>
+<h1>Hi, I'm Jecara, a <a href="https://www.linkedin.com/in/jecarahood/">Front-End Javascript Developer</a>☺</h1>
 
 <h2>👨‍💻 Front End Projects:</h2>
 
